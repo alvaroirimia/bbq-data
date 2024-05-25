@@ -193,7 +193,7 @@
       "name": "Irimia",
       "surName": "",
       "confirmed": true,
-      "paid": true,
+      "paid": false,
       "food": true,
       "plusOne": false
     },
