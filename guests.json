@@ -4,7 +4,7 @@
       "name": "Lucas",
       "surName": "",
       "confirmed": true,
-      "paid": false,
+      "paid": true,
       "food": false,
       "plusOne": false
     },
