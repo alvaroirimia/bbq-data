@@ -9,11 +9,20 @@
       "plusOne": false
     },
     {
+      "id": "Victor(luc)",
+      "name": "Victor (lucas)",
+      "surName": "",
+      "confirmed": true,
+      "paid": false,
+      "food": false,
+      "plusOne": false
+    },
+    {
       "id": "Mirko",
       "name": "Mirko",
       "surName": "",
       "confirmed": true,
-      "paid": false,
+      "paid": true,
       "food": true,
       "plusOne": false
     },
@@ -93,7 +102,7 @@
       "id": "PabloRuiz",
       "name": "Pablo",
       "surName": "Ruiz",
-      "confirmed": false,
+      "confirmed": true,
       "paid": false,
       "food": true,
       "plusOne": false
@@ -130,7 +139,7 @@
       "name": "Taju",
       "surName": "",
       "confirmed": true,
-      "paid": false,
+      "paid": true,
       "food": true,
       "plusOne": false
     },
@@ -139,7 +148,7 @@
       "name": "Andrea",
       "surName": "",
       "confirmed": true,
-      "paid": false,
+      "paid": true,
       "food": true,
       "plusOne": false
     },
@@ -210,7 +219,7 @@
       "id": "AndrésT",
       "name": "Andrés",
       "surName": "T",
-      "confirmed": false,
+      "confirmed": true,
       "paid": false,
       "food": true,
       "plusOne": false
@@ -228,10 +237,10 @@
       "id": "Sazza",
       "name": "Sazza",
       "surName": "",
-      "confirmed": false,
+      "confirmed": true,
       "paid": false,
       "food": true,
-      "plusOne": false
+      "plusOne": true
     },
     {
       "id": "Nil",
@@ -246,8 +255,8 @@
       "id": "Luisfro",
       "name": "Luisfro",
       "surName": "",
-      "confirmed": false,
-      "paid": false,
+      "confirmed": true,
+      "paid": true,
       "food": true,
       "plusOne": false
     },
@@ -255,8 +264,8 @@
       "id": "AlbaRico",
       "name": "Alba",
       "surName": "Rico",
-      "confirmed": false,
-      "paid": false,
+      "confirmed": true,
+      "paid": true,
       "food": true,
       "plusOne": false
     },
@@ -316,7 +325,7 @@
     },
     {
       "id": "albertoTorres",
-      "name": "alberto",
+      "name": "Alberto",
       "surName": "Torres",
       "confirmed": false,
       "paid": false,
@@ -337,7 +346,7 @@
       "name": "Angy",
       "surName": "",
       "confirmed": true,
-      "paid": false,
+      "paid": true,
       "food": false,
       "plusOne": false
     },
@@ -349,5 +358,41 @@
       "paid": true,
       "food": true,
       "plusOne": false
-    }
+    },
+    {
+      "id": "Lucia",
+      "name": "Lucia",
+      "surName": "",
+      "confirmed": true,
+      "paid": false,
+      "food": true,
+      "plusOne": false
+    },
+    {
+      "id": "Novak",
+      "name": "Novak",
+      "surName": "",
+      "confirmed": true,
+      "paid": true,
+      "food": true,
+      "plusOne": false
+    },
+    {
+      "id": "Velez",
+      "name": "Vélez",
+      "surName": "",
+      "confirmed": true,
+      "paid": true,
+      "food": true,
+      "plusOne": false
+    },
+    {
+      "id": "Erika",
+      "name": "Érika",
+      "surName": "",
+      "confirmed": true,
+      "paid": true,
+      "food": true,
+      "plusOne": false
+    },       
    ]
